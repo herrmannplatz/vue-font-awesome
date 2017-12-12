@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <i class="fa fa-check-5x" />
+    <i class="fa fa-check" />
   </div>
 </template>
 
